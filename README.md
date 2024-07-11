@@ -1,24 +1,22 @@
 # Floriano Celestino
 
-![Banner Personalizado](URL_DO_SEU_BANNER)
-
 ## Sobre Mim
 
 Sou um profissional dedicado em Tecnologia de Informação, buscando constantemente aprimorar minhas habilidades e conhecimentos. Meu objetivo é contribuir para o crescimento e sucesso da empresa, aplicando minha experiência e conhecimentos.
 
-## Competências & Aptidões
+## 🛠️ Competências & Aptidões
 
-- **Linguagens de Programação**: C/C++, PHP, SQL, JavaScript, JQuery, Python, Java, Haskell, Prolog, Golang.
-- **Gestão de Base de Dados**: MySQL, Oracle, MariaDB.
-- **Design Gráfico**: Adobe Photoshop, Adobe Illustrator, CorelDraw, MS PhotoDraw, Canva, Inkscape, Adobe InDesign.
-- **Infraestrutura e Redes**: Manutenção e configuração de servidores Windows e Linux.
-- **UI/UX Design**: Figma, Adobe XD, Balsamiq.
-- **Frameworks**: Bootstrap, Tailwind CSS, Bulma, React Js, Laravel.
-- **Hospedagem Web**: Cpanel/WHM, Bluehost, Plesk.
-- **Outras Tecnologias**: Microsoft Office, Astah, UML, Amazon Light, FileZilla, Putty, Loader.io.
-- **Marketing Digital**: Gestão de páginas e links patrocinados, estratégias de mídias sociais.
+- **💻 Linguagens de Programação**: C/C++, PHP, SQL, JavaScript, JQuery, Python, Java, Haskell, Prolog, Golang.
+- **🗄️ Gestão de Base de Dados**: MySQL, Oracle, MariaDB.
+- **🎨 Design Gráfico**: Adobe Photoshop, Adobe Illustrator, CorelDraw, MS PhotoDraw, Canva, Inkscape, Adobe InDesign.
+- **🔧 Infraestrutura e Redes**: Manutenção e configuração de servidores Windows e Linux.
+- **📱 UI/UX Design**: Figma, Adobe XD, Balsamiq.
+- **🌐 Frameworks**: Bootstrap, Tailwind CSS, Bulma, React Js, Laravel.
+- **🌍 Hospedagem Web**: Cpanel/WHM, Bluehost, Plesk.
+- **🛠️ Outras Tecnologias**: Microsoft Office, Astah, UML, Amazon Light, FileZilla, Putty, Loader.io.
+- **📈 Marketing Digital**: Gestão de páginas e links patrocinados, estratégias de mídias sociais.
 
-## Educação
+## 🎓 Educação
 
 **Licenciatura em Ciências da Computação**  
 Universidade Agostinho Neto, Luanda  
@@ -28,7 +26,7 @@ Mar 2016 - Ago 2022
 Colégio Baptista da Paz, Luanda  
 Jan 2008 - Dez 2014
 
-## Experiência Profissional
+## 💼 Experiência Profissional
 
 **Desenvolvedor Web**  
 Inovação & Investigação Tecnológica, Luanda  
@@ -58,24 +56,25 @@ Mar 2014 - Jan 2020
 Afrizima, Luanda  
 2008 - 2012
 
-## Cursos & Certificações
+## 📜 Cursos & Certificações
 
-- **GADS Certification** (Google Africa Developer Training Program)
-- **Adobe XD For Designers** (LinkedIn Learning)
-- **Introdução prática ao Figma** (Digital Innovation One)
-- **UX/UI Design** (UNICAMP)
-- **Introdução a Linux** (Plataforma de Cursos Lúmina da UFRGS)
-- **Pedagogia & Didática** (APEL & SONIUVE)
+- **📜 GADS Certification** (Google Africa Developer Training Program)
+- **📜 Adobe XD For Designers** (LinkedIn Learning)
+- **📜 Introdução prática ao Figma** (Digital Innovation One)
+- **📜 UX/UI Design** (UNICAMP)
+- **📜 Introdução a Linux** (Plataforma de Cursos Lúmina da UFRGS)
+- **📜 Pedagogia & Didática** (APEL & SONIUVE)
 
-## Contato
+## 📫 Contato
 
-- **Email**: [florianocelestino@gmail.com](mailto:florianocelestino@gmail.com)
-- **LinkedIn**: [linkedin.com/in/florianocelestino](https://linkedin.com/in/florianocelestino)
-- **Telefone**: (+244) 939 310 583
-- **Localização**: Av. 21 de Janeiro - Bairro Gamek, Maianga. Luanda – Angola.
+- **📧 Email**: [florianocelestino@gmail.com](mailto:florianocelestino@gmail.com)
+- **💼 LinkedIn**: [linkedin.com/in/florianocelestino](https://linkedin.com/in/florianocelestino)
+- **📸 Instagram**: [instagram.com/florianocelestino](https://instagram.com/florianocelestino)
+- **📘 Facebook**: [facebook.com/florianocelestino](https://facebook.com/florianocelestino)
+- **📱 Telefone**: (+244) 939 310 583
+- **📍 Localização**: Av. 21 de Janeiro - Bairro Gamek, Maianga. Luanda – Angola.
 
-## Estatísticas do GitHub
+## 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=dracula)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=florianocelestino&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=florianocelestino&layout=compact&theme=dracula)
