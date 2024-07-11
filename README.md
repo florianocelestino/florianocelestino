@@ -5,8 +5,8 @@
 Sou um profissional dedicado em Tecnologia de Informação, buscando constantemente aprimorar minhas habilidades e conhecimentos.
 ## 🛠️ Competências & Aptidões
 
-**💻 Linguagens de Programação**: C/C++, PHP, SQL, JavaScript, JQuery, Python, Java, Haskell, Prolog, Golang.
-**🗄️ Gestão de Base de Dados**: MySQL, Oracle, MariaDB.
+**💻 Linguagens de Programação**: C/C++, PHP, SQL, JavaScript, JQuery, Python, Java, Haskell, Prolog, Golang
+**🗄️ Gestão de Base de Dados**: MySQL, Oracle, MariaDB
 **🎨 Design Gráfico**: Adobe Photoshop, Adobe Illustrator, CorelDraw, MS PhotoDraw, Canva, Inkscape, Adobe InDesign.
 **🔧 Infraestrutura e Redes**: Manutenção e configuração de servidores Windows e Linux.
 **📱 UI/UX Design**: Figma, Adobe XD, Balsamiq.
