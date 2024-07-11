@@ -2,8 +2,7 @@
 
 ## Sobre Mim
 
-Sou um profissional dedicado em Tecnologia de Informação, buscando constantemente aprimorar minhas habilidades e conhecimentos. Meu objetivo é contribuir para o crescimento e sucesso da empresa, aplicando minha experiência e conhecimentos.
-
+Sou um profissional dedicado em Tecnologia de Informação, buscando constantemente aprimorar minhas habilidades e conhecimentos.
 ## 🛠️ Competências & Aptidões
 
 - **💻 Linguagens de Programação**: C/C++, PHP, SQL, JavaScript, JQuery, Python, Java, Haskell, Prolog, Golang.
@@ -13,7 +12,7 @@ Sou um profissional dedicado em Tecnologia de Informação, buscando constanteme
 - **📱 UI/UX Design**: Figma, Adobe XD, Balsamiq.
 - **🌐 Frameworks**: Bootstrap, Tailwind CSS, Bulma, React Js, Laravel.
 - **🌍 Hospedagem Web**: Cpanel/WHM, Bluehost, Plesk.
-- **🛠️ Outras Tecnologias**: Microsoft Office, Astah, UML, Amazon Light, FileZilla, Putty, Loader.io.
+- **🛠️ Outras Tecnologias**: Microsoft Office, Astah, UML, Amazon Light, FileZilla, Putty, Loader.io, CloudFlare.
 - **📈 Marketing Digital**: Gestão de páginas e links patrocinados, estratégias de mídias sociais.
 
 ## 🎓 Educação
@@ -27,6 +26,10 @@ Colégio Baptista da Paz, Luanda
 Jan 2008 - Dez 2014
 
 ## 💼 Experiência Profissional
+
+**Desenvolvedor Web**  
+Guiché Único da Empresa, Luanda (Sede)  
+Set 2023 - Presente
 
 **Desenvolvedor Web**  
 Inovação & Investigação Tecnológica, Luanda  
@@ -65,16 +68,22 @@ Afrizima, Luanda
 - **📜 Introdução a Linux** (Plataforma de Cursos Lúmina da UFRGS)
 - **📜 Pedagogia & Didática** (APEL & SONIUVE)
 
-## 📫 Contato
+- ## 📜 Prémios
+
+- **⭐ AngoTranscritor - Transcription System**: Medalha de Ouro - Feira de Ideias, Inovação e Novos Produtos (iENA 2023)
+- **⭐ E-Tribunal - Court Of Digital Justice**: Medalha de Ouro - Feira de Ideias, Inovação e Novos Produtos (iENA 2023)
+- 
+## 📫 Mais informações
 
 - **📧 Email**: [florianocelestino@gmail.com](mailto:florianocelestino@gmail.com)
 - **💼 LinkedIn**: [linkedin.com/in/florianocelestino](https://linkedin.com/in/florianocelestino)
 - **📸 Instagram**: [instagram.com/florianocelestino](https://instagram.com/florianocelestino)
 - **📘 Facebook**: [facebook.com/florianocelestino](https://facebook.com/florianocelestino)
-- **📱 Telefone**: (+244) 939 310 583
-- **📍 Localização**: Av. 21 de Janeiro - Bairro Gamek, Maianga. Luanda – Angola.
+- **📱 Telefone/Whatsapp**: (+244) 939 310 583
 
 ## 📊 Estatísticas do GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=florianocelestino&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=florianocelestino&layout=compact&theme=dracula)
+![GitHub Contributions](https://img.shields.io/github/last-commit/florianocelestino/florianocelestino?label=Contribui%C3%A7%C3%B5es%20no%20%C3%9Altimo%20Ano&style=flat-square)
+
