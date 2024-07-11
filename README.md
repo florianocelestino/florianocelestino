@@ -10,11 +10,17 @@ Sou um profissional dedicado em Tecnologia de Informação, buscando constanteme
 **🗄️ Gestão de Base de Dados**: MySQL, Oracle, MariaDB.
 
 **🎨 Design Gráfico**: Adobe Photoshop, Adobe Illustrator, CorelDraw, MS PhotoDraw, Canva, Inkscape, Adobe InDesign.
+
 **🔧 Infraestrutura e Redes**: Manutenção e configuração de servidores Windows e Linux.
+
 **📱 UI/UX Design**: Figma, Adobe XD, Balsamiq.
+
 **🌐 Frameworks**: Bootstrap, Tailwind CSS, Bulma, React Js, Laravel.
+
 **🌍 Hospedagem Web**: Cpanel/WHM, Bluehost, Plesk.
+
 **🛠️ Outras Tecnologias**: Microsoft Office, Astah, UML, Amazon Light, FileZilla, Putty, Loader.io, CloudFlare.
+
 **📈 Marketing Digital**: Gestão de páginas e links patrocinados, estratégias de mídias sociais.
 
 ## 🎓 Educação
@@ -64,23 +70,33 @@ Afrizima, Luanda
 ## 📜 Cursos & Certificações
 
 **📜 GADS Certification** (Google Africa Developer Training Program)
+
 **📜 Adobe XD For Designers** (LinkedIn Learning)
+
 **📜 Introdução prática ao Figma** (Digital Innovation One)
+
 **📜 UX/UI Design** (UNICAMP)
+
 **📜 Introdução a Linux** (Plataforma de Cursos Lúmina da UFRGS)
+
 **📜 Pedagogia & Didática** (APEL & SONIUVE)
 
 ## 📜 Prémios
 
 **⭐ AngoTranscritor - Transcription System**: Medalha de Ouro - Feira de Ideias, Inovação e Novos Produtos (iENA 2023)
+
 **⭐ E-Tribunal - Court Of Digital Justice**: Medalha de Ouro - Feira de Ideias, Inovação e Novos Produtos (iENA 2023)
 
 ## 📫 Mais informações
 
 **📧 Email**: [florianocelestino@gmail.com](mailto:florianocelestino@gmail.com)
+
 **💼 LinkedIn**: [linkedin.com/in/florianocelestino](https://linkedin.com/in/florianocelestino)
+
 **📸 Instagram**: [instagram.com/florianocelestino](https://instagram.com/florianocelestino)
+
 **📘 Facebook**: [facebook.com/florianocelestino](https://facebook.com/florianocelestino)
+
 **📱 Telefone/Whatsapp**: (+244) 939 310 583
 
 ## 📊 Estatísticas do GitHub
