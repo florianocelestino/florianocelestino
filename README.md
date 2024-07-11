@@ -83,9 +83,11 @@ Afrizima, Luanda
 
 ## 📜 Prémios
 
-**⭐ AngoTranscritor - Transcription System**: Medalha de Ouro - Feira de Ideias, Inovação e Novos Produtos (iENA 2023)
+**⭐ AngoTranscritor - Transcription System**: Uma Medalha de Ouro - Feira de Ideias, Inovação e Novos Produtos (iENA 2023)
 
-**⭐ E-Tribunal - Court Of Digital Justice**: Medalha de Ouro - Feira de Ideias, Inovação e Novos Produtos (iENA 2023)
+**⭐ E-Tribunal - Court Of Digital Justice**: Uma Medalha de Bronze - Feira de Ideias, Inovação e Novos Produtos (iENA 2023)
+
+**⭐ SIADDO - Distance and Home Classroom System**: Uma Medalha de Bronze - Feira de Ideias, Inovação e Novos Produtos (iENA 2023)
 
 ## 📫 Mais informações
 
@@ -98,13 +100,5 @@ Afrizima, Luanda
 **📘 Facebook**: [facebook.com/florianocelestino](https://facebook.com/florianocelestino)
 
 **📱 Telefone/Whatsapp**: (+244) 939 310 583
-
-## 📊 Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=florianocelestino&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=florianocelestino&layout=compact&theme=dracula)
-![GitHub Contributions](https://img.shields.io/github/last-commit/florianocelestino/florianocelestino?label=%C3%9Altimo%20Commit&style=flat-square)
-![GitHub Repositories](https://img.shields.io/badge/Reposit%C3%B3rios-XX-blue?style=flat-square)
-![GitHub Contributions](https://img.shields.io/github/commit-activity/m/florianocelestino/florianocelestino?label=Atividade%20de%20Commits%20no%20%C3%9Altimo%20Ano&style=flat-square)
 
 
